@@ -17,6 +17,6 @@ html,body {
     background-color: rgb(59, 231, 174);
     height: 200px;
     width: 200px;
-    position: relative;
+    position: fixed;
     top: 20px;
 }
